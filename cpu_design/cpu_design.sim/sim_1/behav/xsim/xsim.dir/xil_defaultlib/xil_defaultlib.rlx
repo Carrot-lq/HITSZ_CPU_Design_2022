@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/12644/Desktop/cpu_design/cpu_design.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/12644/Desktop/cpu_design/cpu_design.srcs/sim_1/new/cpuclk_sim.v,1656291467,verilog,,,,cpuclk_sim,,,../../../../cpu_design.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/12644/Desktop/cpu_design/cpu_design.srcs/sources_1/ip/cpuclk/cpuclk.v,1656291386,verilog,,C:/Users/12644/Desktop/cpu_design/cpu_design.srcs/sim_1/new/cpuclk_sim.v,,cpuclk,,,../../../../cpu_design.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/12644/Desktop/cpu_design/cpu_design.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,1656291386,verilog,,C:/Users/12644/Desktop/cpu_design/cpu_design.srcs/sources_1/ip/cpuclk/cpuclk.v,,cpuclk_clk_wiz,,,../../../../cpu_design.srcs/sources_1/ip/cpuclk,,,,,
